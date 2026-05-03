@@ -295,29 +295,6 @@ Microservices for Change, Request, Incident, and Problem Management modules. JWT
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=niranjan-madak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-madak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan-madak&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=niranjan-madak&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
 ## 📜 Certifications
 
 <div align="center">
