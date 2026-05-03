@@ -379,3 +379,9 @@ Microservices for Change, Request, Incident, and Problem Management modules. JWT
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:185FA5,100:0C447C&height=100&section=footer" />
 
 </div>
+
+---
+<div align="center">
+<sub>© 2025 Niranjan Madak · All rights reserved · 
+Do not copy or reproduce without permission</sub>
+</div>
